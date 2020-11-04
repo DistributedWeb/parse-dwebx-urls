@@ -1,24 +1,24 @@
 {
   "name": "parse-dwebx-urls",
   "version": "1.0.0",
-  "description": "Node's url.parse() but updated to support versioned dwebx URLs.",
+  "description": "Module for parsing legacy dWeb URLs (dwebx://).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/distributedweb/parse-dwebx-urls.git"
+    "url": "https://github.com/distributedweb/parse-dwebx-urls.git"
   },
   "keywords": [
     "dwebx",
     "url",
     "parse"
   ],
-  "author": "Paul Frazee <pfraee@gmail.com>",
+  "author": "Peeps Labs <peepslabs.gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/distributedweb/parse-dwebx-urls/issues"
   },
-  "homepage": "https://github.com/distributedweb/parse-dwebx-urls#readme"
+  "homepage": "https://dwebx.org"
 }
